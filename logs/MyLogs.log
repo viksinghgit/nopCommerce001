@@ -1,0 +1,15 @@
+[INFO ] 2019-08-04 17:32:56.526 [main] DemoExtentReport - changeCurrency
+[INFO ] 2019-08-04 17:33:08.571 [main] DemoExtentReport - navigateToCameraSection
+[INFO ] 2019-08-04 17:33:20.274 [main] DemoExtentReport - noCommerceTitleTest
+[INFO ] 2019-08-04 17:33:25.517 [main] DemoExtentReport - selectDesktop
+[INFO ] 2019-08-04 17:33:35.530 [main] DemoExtentReport - verifyImage
+[INFO ] 2019-08-04 17:37:30.640 [TestNG-test=Test-1] DemoExtentReport - changeCurrency has been started
+[INFO ] 2019-08-04 17:37:34.996 [TestNG-test=Test-1] DemoExtentReport -  Assertion for changeCurrency is true
+[INFO ] 2019-08-04 17:37:40.894 [TestNG-test=Test-1] DemoExtentReport - navigateToCameraSection has been started
+[INFO ] 2019-08-04 17:37:44.916 [TestNG-test=Test-1] DemoExtentReport -  Assertion for navigateToCameraSection is true
+[INFO ] 2019-08-04 17:37:52.639 [TestNG-test=Test-1] DemoExtentReport - noCommerceTitleTest has been started
+[INFO ] 2019-08-04 17:37:52.649 [TestNG-test=Test-1] DemoExtentReport -  Assertion for noCommerceTitleTest is true
+[INFO ] 2019-08-04 17:37:57.998 [TestNG-test=Test-1] DemoExtentReport - selectDesktop has been started
+[INFO ] 2019-08-04 17:38:02.525 [TestNG-test=Test-1] DemoExtentReport -  Assertion for selectDesktop is true
+[INFO ] 2019-08-04 17:38:08.046 [TestNG-test=Test-1] DemoExtentReport - verifyImage has been started
+[INFO ] 2019-08-04 17:38:09.118 [TestNG-test=Test-1] DemoExtentReport -  Assertion for verifyImage is true
