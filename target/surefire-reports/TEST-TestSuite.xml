@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="47.604" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="58.663" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
@@ -53,20 +53,18 @@
     <property name="java.version" value="1.8.0_211"/>
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_211\jre\classes"/>
-    <property name="sun.stderr.encoding" value="cp437"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="maven.home" value="C:\Setups\apache-maven-3.6.1\bin\.."/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="sun.stdout.encoding" value="cp437"/>
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="changeCurrency" classname="com.extentreports.basics.DemoExtentReport" time="4.38"/>
-  <testcase name="navigateToCameraSection" classname="com.extentreports.basics.DemoExtentReport" time="4.026"/>
-  <testcase name="noCommerceTitleTest" classname="com.extentreports.basics.DemoExtentReport" time="0.017"/>
-  <testcase name="selectDesktop" classname="com.extentreports.basics.DemoExtentReport" time="4.531"/>
-  <testcase name="verifyImage" classname="com.extentreports.basics.DemoExtentReport" time="1.081"/>
+  <testcase name="changeCurrency" classname="com.extentreports.basics.DemoExtentReport" time="5.607"/>
+  <testcase name="navigateToCameraSection" classname="com.extentreports.basics.DemoExtentReport" time="3.328"/>
+  <testcase name="noCommerceTitleTest" classname="com.extentreports.basics.DemoExtentReport" time="0.059"/>
+  <testcase name="selectDesktop" classname="com.extentreports.basics.DemoExtentReport" time="4.217"/>
+  <testcase name="verifyImage" classname="com.extentreports.basics.DemoExtentReport" time="2.289"/>
 </testsuite>

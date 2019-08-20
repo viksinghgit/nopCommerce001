@@ -12,4 +12,5 @@ com\extentreports\basics\WaitForPageLoadTest.class
 com\extentreports\basics\ReverseString.class
 com\maven\demo\firsttest\SelectRandomOptionInDropdown.class
 com\extentreports\basics\PageObjectModel.class
+com\extentreports\basics\ParallelExexcution.class
 com\extentreports\basics\MainClass.class

@@ -2,111 +2,111 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="46846" started-at="2019-08-04T12:07:22Z" finished-at="2019-08-04T12:08:09Z">
+  <suite name="Suite" duration-ms="57452" started-at="2019-08-20T20:05:34Z" finished-at="2019-08-20T20:06:32Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="46846" started-at="2019-08-04T12:07:22Z" finished-at="2019-08-04T12:08:09Z">
+    <test name="Test" duration-ms="57452" started-at="2019-08-20T20:05:34Z" finished-at="2019-08-20T20:06:32Z">
       <class name="com.extentreports.basics.DemoExtentReport">
-        <test-method status="PASS" signature="initializationExtentReports()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="initializationExtentReports" is-config="true" duration-ms="948" started-at="2019-08-04T17:37:22Z" finished-at="2019-08-04T17:37:23Z">
+        <test-method status="PASS" signature="initializationExtentReports()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="initializationExtentReports" is-config="true" duration-ms="1445" started-at="2019-08-21T01:35:34Z" finished-at="2019-08-21T01:35:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializationExtentReports -->
-        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="preSetup" is-config="true" duration-ms="6864" started-at="2019-08-04T17:37:23Z" finished-at="2019-08-04T17:37:30Z">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="preSetup" is-config="true" duration-ms="7751" started-at="2019-08-21T01:35:36Z" finished-at="2019-08-21T01:35:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method status="PASS" signature="changeCurrency()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="changeCurrency" duration-ms="4365" started-at="2019-08-04T17:37:30Z" finished-at="2019-08-04T17:37:34Z">
+        <test-method status="PASS" signature="changeCurrency()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="changeCurrency" duration-ms="5600" started-at="2019-08-21T01:35:43Z" finished-at="2019-08-21T01:35:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- changeCurrency -->
-        <test-method status="PASS" signature="afterExecution(org.testng.ITestResult)[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="afterExecution" is-config="true" duration-ms="196" started-at="2019-08-04T17:37:34Z" finished-at="2019-08-04T17:37:35Z">
+        <test-method status="PASS" signature="afterExecution(org.testng.ITestResult)[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="afterExecution" is-config="true" duration-ms="2232" started-at="2019-08-21T01:35:49Z" finished-at="2019-08-21T01:35:51Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=changeCurrency status=SUCCESS method=DemoExtentReport.changeCurrency()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e] output={null}]]]>
+                <![CDATA[[TestResult name=changeCurrency status=SUCCESS method=DemoExtentReport.changeCurrency()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterExecution -->
-        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="preSetup" is-config="true" duration-ms="5701" started-at="2019-08-04T17:37:35Z" finished-at="2019-08-04T17:37:40Z">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="preSetup" is-config="true" duration-ms="6198" started-at="2019-08-21T01:35:51Z" finished-at="2019-08-21T01:35:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method status="PASS" signature="navigateToCameraSection()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="navigateToCameraSection" duration-ms="4025" started-at="2019-08-04T17:37:40Z" finished-at="2019-08-04T17:37:44Z">
+        <test-method status="PASS" signature="navigateToCameraSection()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="navigateToCameraSection" duration-ms="3328" started-at="2019-08-21T01:35:57Z" finished-at="2019-08-21T01:36:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToCameraSection -->
-        <test-method status="PASS" signature="afterExecution(org.testng.ITestResult)[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="afterExecution" is-config="true" duration-ms="2349" started-at="2019-08-04T17:37:44Z" finished-at="2019-08-04T17:37:47Z">
+        <test-method status="PASS" signature="afterExecution(org.testng.ITestResult)[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="afterExecution" is-config="true" duration-ms="2356" started-at="2019-08-21T01:36:01Z" finished-at="2019-08-21T01:36:03Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=navigateToCameraSection status=SUCCESS method=DemoExtentReport.navigateToCameraSection()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e] output={null}]]]>
+                <![CDATA[[TestResult name=navigateToCameraSection status=SUCCESS method=DemoExtentReport.navigateToCameraSection()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterExecution -->
-        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="preSetup" is-config="true" duration-ms="5372" started-at="2019-08-04T17:37:47Z" finished-at="2019-08-04T17:37:52Z">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="preSetup" is-config="true" duration-ms="6329" started-at="2019-08-21T01:36:03Z" finished-at="2019-08-21T01:36:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method status="PASS" signature="noCommerceTitleTest()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="noCommerceTitleTest" duration-ms="12" started-at="2019-08-04T17:37:52Z" finished-at="2019-08-04T17:37:52Z">
+        <test-method status="PASS" signature="noCommerceTitleTest()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="noCommerceTitleTest" duration-ms="55" started-at="2019-08-21T01:36:09Z" finished-at="2019-08-21T01:36:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- noCommerceTitleTest -->
-        <test-method status="PASS" signature="afterExecution(org.testng.ITestResult)[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="afterExecution" is-config="true" duration-ms="113" started-at="2019-08-04T17:37:52Z" finished-at="2019-08-04T17:37:52Z">
+        <test-method status="PASS" signature="afterExecution(org.testng.ITestResult)[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="afterExecution" is-config="true" duration-ms="219" started-at="2019-08-21T01:36:10Z" finished-at="2019-08-21T01:36:10Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=noCommerceTitleTest status=SUCCESS method=DemoExtentReport.noCommerceTitleTest()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e] output={null}]]]>
+                <![CDATA[[TestResult name=noCommerceTitleTest status=SUCCESS method=DemoExtentReport.noCommerceTitleTest()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterExecution -->
-        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="preSetup" is-config="true" duration-ms="5231" started-at="2019-08-04T17:37:52Z" finished-at="2019-08-04T17:37:57Z">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="preSetup" is-config="true" duration-ms="6355" started-at="2019-08-21T01:36:10Z" finished-at="2019-08-21T01:36:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method status="PASS" signature="selectDesktop()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="selectDesktop" duration-ms="4527" started-at="2019-08-04T17:37:57Z" finished-at="2019-08-04T17:38:02Z">
+        <test-method status="PASS" signature="selectDesktop()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="selectDesktop" duration-ms="4217" started-at="2019-08-21T01:36:16Z" finished-at="2019-08-21T01:36:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectDesktop -->
-        <test-method status="PASS" signature="afterExecution(org.testng.ITestResult)[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="afterExecution" is-config="true" duration-ms="131" started-at="2019-08-04T17:38:02Z" finished-at="2019-08-04T17:38:02Z">
+        <test-method status="PASS" signature="afterExecution(org.testng.ITestResult)[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="afterExecution" is-config="true" duration-ms="168" started-at="2019-08-21T01:36:20Z" finished-at="2019-08-21T01:36:20Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=selectDesktop status=SUCCESS method=DemoExtentReport.selectDesktop()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e] output={null}]]]>
+                <![CDATA[[TestResult name=selectDesktop status=SUCCESS method=DemoExtentReport.selectDesktop()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterExecution -->
-        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="preSetup" is-config="true" duration-ms="5389" started-at="2019-08-04T17:38:02Z" finished-at="2019-08-04T17:38:08Z">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="preSetup" is-config="true" duration-ms="6206" started-at="2019-08-21T01:36:20Z" finished-at="2019-08-21T01:36:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method status="PASS" signature="verifyImage()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="verifyImage" duration-ms="1072" started-at="2019-08-04T17:38:08Z" finished-at="2019-08-04T17:38:09Z">
+        <test-method status="PASS" signature="verifyImage()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="verifyImage" duration-ms="2283" started-at="2019-08-21T01:36:27Z" finished-at="2019-08-21T01:36:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyImage -->
-        <test-method status="PASS" signature="afterExecution(org.testng.ITestResult)[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="afterExecution" is-config="true" duration-ms="136" started-at="2019-08-04T17:38:09Z" finished-at="2019-08-04T17:38:09Z">
+        <test-method status="PASS" signature="afterExecution(org.testng.ITestResult)[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="afterExecution" is-config="true" duration-ms="2069" started-at="2019-08-21T01:36:29Z" finished-at="2019-08-21T01:36:31Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=verifyImage status=SUCCESS method=DemoExtentReport.verifyImage()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e] output={null}]]]>
+                <![CDATA[[TestResult name=verifyImage status=SUCCESS method=DemoExtentReport.verifyImage()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterExecution -->
-        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.extentreports.basics.DemoExtentReport@340f438e]" name="postCondition" is-config="true" duration-ms="388" started-at="2019-08-04T17:38:09Z" finished-at="2019-08-04T17:38:09Z">
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.extentreports.basics.DemoExtentReport@7f63425a]" name="postCondition" is-config="true" duration-ms="607" started-at="2019-08-21T01:36:31Z" finished-at="2019-08-21T01:36:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
